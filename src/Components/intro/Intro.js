@@ -10,7 +10,7 @@ function Intro(){
             <div className="Intro">
             <div className="Introcontent">
                 <p id="hello">Hello,</p>
-                <span className="details">I'm <span>Arunkumar</span><br/>Wed Developer</span>
+                <span className="details">I'm <span>Arunkumar</span><br/>Web Developer</span>
                 <p className="bio-dtails">I am a skilled and passionate web developer with experience in creating visually appeling and user-friendly websites.</p>
                 {/* <button className="hirebtn"><img src={hireimg} alt="hirelogo" />Hire me</button> */}
             </div>
