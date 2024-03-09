@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Arun-portfolio/static/css/main.b8681315.css",
-    "main.js": "/Arun-portfolio/static/js/main.b1911b52.js",
+    "main.js": "/Arun-portfolio/static/js/main.a6d3c0f5.js",
     "static/media/message.gif": "/Arun-portfolio/static/media/message.ecb964d21c1779696066.gif",
     "static/media/bgimg.jpg": "/Arun-portfolio/static/media/bgimg.9b4bcca399e2aafef08c.jpg",
     "static/media/hire.gif": "/Arun-portfolio/static/media/hire.584616d2f29df5f2ae3e.gif",
     "static/media/education.svg": "/Arun-portfolio/static/media/education.416e669b1236d390a450c7824e975009.svg",
     "index.html": "/Arun-portfolio/index.html",
     "main.b8681315.css.map": "/Arun-portfolio/static/css/main.b8681315.css.map",
-    "main.b1911b52.js.map": "/Arun-portfolio/static/js/main.b1911b52.js.map"
+    "main.a6d3c0f5.js.map": "/Arun-portfolio/static/js/main.a6d3c0f5.js.map"
   },
   "entrypoints": [
     "static/css/main.b8681315.css",
-    "static/js/main.b1911b52.js"
+    "static/js/main.a6d3c0f5.js"
   ]
 }
