@@ -16,9 +16,9 @@ function Navbar() {
                 <h1>Arun kumar</h1>
                 </div>
                 <div className='navmenuitems'>
-                    <Link activeClassName='active'  to='introcontainer' smooth={true} duration={500} className="navbarmenitemlist">About</Link>
-                    <Link activeClassName='active'  to='container' smooth={true} duration={500} className="navbarmenitemlist">Skills</Link>
-                    <Link activeClassName='active'  to='educontainer' smooth={true} duration={500} className="navbarmenitemlist">Education</Link>
+                    <Link to='introcontainer' smooth={true} duration={500} className="navbarmenitemlist">About</Link>
+                    <Link to='container' smooth={true} duration={500} className="navbarmenitemlist">Skills</Link>
+                    <Link to='educontainer' smooth={true} duration={500} className="navbarmenitemlist">Education</Link>
                     {/* <Link activeClassName='active'  to='Contactcontainer' smooth={true} duration={500} className="navbarmenitemlist">Contact</Link> */}
                 </div>
                 <Link to='Contactcontainer' smooth={true} duration={500} ><button className='navcontactbtn'><FaRegMessage className='img'/>Contact Me</button></Link>
